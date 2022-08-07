@@ -1,0 +1,2 @@
+C:\PROGRA~2\tdm_gcc\bin\ar.exe qc libCore.a  CMakeFiles/Core.dir/core.cpp.obj
+C:\PROGRA~2\tdm_gcc\bin\ranlib.exe libCore.a

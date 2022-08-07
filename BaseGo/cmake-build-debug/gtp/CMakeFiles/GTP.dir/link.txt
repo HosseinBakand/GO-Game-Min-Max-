@@ -1,0 +1,2 @@
+C:\PROGRA~2\tdm_gcc\bin\ar.exe qc libGTP.a  CMakeFiles/GTP.dir/gtp.cpp.obj CMakeFiles/GTP.dir/play_gtp.cpp.obj
+C:\PROGRA~2\tdm_gcc\bin\ranlib.exe libGTP.a

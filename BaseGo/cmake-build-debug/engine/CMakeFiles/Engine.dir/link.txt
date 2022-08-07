@@ -1,0 +1,2 @@
+C:\PROGRA~2\tdm_gcc\bin\ar.exe qc libEngine.a  CMakeFiles/Engine.dir/board.cpp.obj CMakeFiles/Engine.dir/boardlib.cpp.obj CMakeFiles/Engine.dir/clock.cpp.obj CMakeFiles/Engine.dir/hash.cpp.obj CMakeFiles/Engine.dir/printutils.cpp.obj
+C:\PROGRA~2\tdm_gcc\bin\ranlib.exe libEngine.a

@@ -1,0 +1,2 @@
+C:\PROGRA~2\tdm_gcc\bin\ar.exe qc libUtils.a  CMakeFiles/Utils.dir/gg_utils.cpp.obj CMakeFiles/Utils.dir/random.cpp.obj
+C:\PROGRA~2\tdm_gcc\bin\ranlib.exe libUtils.a

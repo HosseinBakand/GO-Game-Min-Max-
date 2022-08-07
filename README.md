@@ -1,1 +1,1 @@
-# GO-Game-Min-Max-
+# GO Game (MinMax)
